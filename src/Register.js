@@ -1,18 +1,11 @@
 import Input from './Input';
 import {useRef} from "react";
 
-export default function () {
+export default function Register() {
 
     const nameInput = useRef(null);
     const subjectInput = useRef(null);
     const messageInput = useRef(null);
-
-    function handleButton(e) {
-
-        nameInput.current.focus();
-
-        e.preventDefault()
-    }
 
 
     return (

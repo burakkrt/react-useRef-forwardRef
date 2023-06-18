@@ -1,4 +1,3 @@
-import {forwardRef, useEffect, useRef} from 'react';
 import Register from "./Register";
 
 function App() {
