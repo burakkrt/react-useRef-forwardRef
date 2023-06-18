@@ -17,13 +17,13 @@
 
 
 ```bash
-  git clone https://github.com/burakkrt/react-tab-index.git
+  git clone https://github.com/burakkrt/react-useRef-forwardRef.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd react-tab-index
+  cd react-useRef-forwardRef
 ```
 
 Install required packages
